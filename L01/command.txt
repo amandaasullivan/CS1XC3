@@ -1,7 +1,8 @@
-ls - look at your surroundings (look at the contents of the current directory)
+ls - look at your surroundings (looks at the contents of the current directory/file)
 cd LOCATION - move to a new location (move to a new directory)
-cd ~ - takes you back to home (takes you to the home directory)
-cd .. - backtrack to previous location (move to the previous directory)
+cp - duplicate an Item (copies a file/directory)
+add - add a new spell to a locker in the AthenaCluster
+help - ask the Old Man for help(tells you how to use commmands)
 less ITEM - interact with things in the world (shows the file's contents)
 pwd - tells you the location you are in (shows the directory you are in)
 man - provides details on how to use a specific spell (provides a decription of the function of a command)
