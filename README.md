@@ -1,6 +1,6 @@
 # hello-world
 My first repository on GitHub
 
-#Name and Student ID
+#**Name and Student ID**:
 Amanda Sullivan
 sullia8
