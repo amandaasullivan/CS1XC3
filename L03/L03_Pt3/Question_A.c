@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 #include <stdbool.h>
 
 bool perfect_square(int);
@@ -7,9 +6,9 @@ bool perfect_square(int);
 int main() {
     // x + 100 = n^2
     // x + 100 + 168 = m^2
-    for (int i = 2; i <= 85; i++){
+    for (int i = -100; i <= 10000; i++){
         if (perfect_square(i+100) == true && perfect_square(i+100+168) == true){
-            printf ("%d",i);
+            printf ("%d\n",i);
         }
     }
     return 0;
