@@ -40,7 +40,7 @@ fi
 if [ $# -gt 3 ] ; then
     touch "excess.txt"
     for ((i=4 ; i <= $# ; i++)) ; do
-	echo "${!i}" >> "excess.txt" #${!1} is an indirect variable assignment
+	echo "${!i}" >> "excess.txt" #${!i} is an indirect variable assignment
     done
 fi
 
