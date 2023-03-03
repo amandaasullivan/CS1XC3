@@ -1,0 +1,12 @@
+- The reported times zeros because the time is less that 0.01. Therefore, the time is not captured in the 2 decimal spaces provided
+- factors_itr is only called once every time the program is run it is not a recursive function. It is called once in the main function and is not called again
+-
+40: 16 recursive calls,  4 prime factors, 8 factors
+79: 1 recursive call,  1 prime factor, 2 factors
+240: 27 recursive calls, 6 prime factors, 20 factors
+300: 16 recursive calls, 5 prime factors, 18 factors
+999: 2 recursive calls, 4 prime factors, 8 factors
+4000: 84 recursive calls, 8 prime factors, 24 factors
+
+In general, the number of recursive calls increases as the number of factors and prime factors increases.
+  

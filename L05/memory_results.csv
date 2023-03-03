@@ -1,0 +1,15 @@
+Search Value, Linear Search, Binary Search, Fibonacci Search, Notes
+1, 2208, 2300, 2212, Linear search has the least memory cost with Fibonacci coming a close second. Linear search only requires memory for the current element being checked, target value, and a loop counter. Fibonacci search only keeps track of a few variables during the search. However, binary search stores all the previously examined elements to determine which portion to examine next which require more memory for large lists.
+4, 2228, 2216, 2212, Fibonacci search has the lowest memory cost because it does not use as much memory to store such search bounds.
+22, 2252, 2216, 2304, Binary search has the least memory cost because it performs the least number of iterations.
+37, 2248, 2252, 2244, Fibonacci search has the lowest memory cost because it does not use as much memory to store search bounds.
+22906, 2236, 2260, 2196, Fibonacci search has the lowest memory cost because it does not use as much memory to store search bounds.
+53757, 2224, 2244, 2204, Fibonacci search has the lowest memory cost because it does not use as much memory to store such search bounds.
+112591, 2256, 2204, 2296, Binary search has the least memory cost because it performs the least number of iterations.
+361940, 2220, 2124, 2304, Binary search has the least memory cost because it performs the least number of iterations.
+475713, 2240, 2256, 2244, Linear search has the lowest memory cost. Fibonnaci has lower memory cost and higher runtime cost for element 475713.
+893766, 2220, 2224, 2236, Linear search has the least memory cost because the element needed to be found may be in an inefficient position for the binary and Fibonacci searches.
+996637, 2228, 2236, 2208, Fibonacci search has the lowest memory cost because it does not use as much memory to store such search bounds.
+996639, 2252, 2256, 2260, Linear search has the least memory cost because the element needed to be found may be in an inefficient position for the binary and Fibonacci searches.
+996652, 2256, 2296, 2216, Fibonacci search has the lowest memory cost because it does not use as much memory to store such search bounds.
+-996652, 2256, 2296, 2216, Fibonacci search has the lowest memory cost because use as much memory to store such search bounds.

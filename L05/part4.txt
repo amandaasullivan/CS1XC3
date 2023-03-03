@@ -1,0 +1,6 @@
+a) The iterative and recursive algorithms are similar because they are both based on a control structure. They run the same for many of the same numbers. A slight difference is that the iterative algorithm is slightly more efficient because the recursive algorithm generally has more repetition.
+b) Lines 144 and 242 are the most repeated lines in both the iterative and recursive algorithms. In the recursive algorithm line 144 is the most repeated. For the iterative algorithm line 242 is the most repeated
+c) The iterative code ignores all the recursive algorithm code and vice versa. The printArray() function, the section of the allFactors_itr() function analyzing every pair of elements in the array, and the default case in main() function are not exercised.
+d) A good place to start would be with the most repeated lines which are the for loop lines, so to optimize both functions, the for loops could be optimized.
+
+
