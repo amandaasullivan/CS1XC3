@@ -9,3 +9,7 @@ int prod3(int x, int y, int z) {
 int prod4(int w, int x, int y, int z) {
 	return w * x * y * z; 
 }
+
+int main(){
+	return 0;
+}

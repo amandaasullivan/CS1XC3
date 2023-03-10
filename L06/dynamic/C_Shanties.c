@@ -186,3 +186,8 @@ void barrettsPrivateers (void) {
 	sleep(4);
 	printf("<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>\n");
 }
+
+
+int main(){
+        return 0;
+}
