@@ -4,3 +4,12 @@
 [submodule "1XC3_L07"]
 	path = 1XC3_L07
 	url = git@github.com:amandaasullivan/1XC3_L07.git
+[submodule "CS1XC3_L08"]
+	path = CS1XC3_L08
+	url = git@github.com:amandaasullivan/CS1XC3_L08.git
+[submodule "Cont-Int_L08"]
+	path = Cont-Int_L08
+	url = git@github.com:amandaasullivan/Cont-Int_L08.git
+[submodule "CS1XC3_L08_P3"]
+	path = CS1XC3_L08_P3
+	url = git@github.com:amandaasullivan/CS1XC3_L08_P3.git
