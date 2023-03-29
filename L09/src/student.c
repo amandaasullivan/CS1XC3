@@ -1,3 +1,10 @@
+/**
+* @file studnet.c
+* @name Amanda Sullivan
+* @date 2023-03-28
+* @brief This file contains the implementation of functions for managing student records and grades
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

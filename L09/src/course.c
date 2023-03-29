@@ -1,3 +1,10 @@
+/**
+* @file course.c
+* @author Amanda Sullivan
+* @date 2023-03-28
+* @brief Contains implementations of functions related to Course  management that were defined in course.h
+*/
+
 #include "course.h"
 #include <stdlib.h>
 #include <stdio.h>
