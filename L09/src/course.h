@@ -63,4 +63,3 @@ Student *top_student(Course* course);
 */
 Student *passing(Course* course, int *total_passing);
 
-#endif /* COURSE_H */

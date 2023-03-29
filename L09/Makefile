@@ -5,7 +5,7 @@ CFLAGS = -Wall -Isrc
 BUILD_DIR = build
 SRC_DIR = src
 
-all : create_directories main student course
+all : create_directories student course main
 
 create_directories :
 	$(shell mkdir -p documentation)
