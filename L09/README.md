@@ -1,4 +1,6 @@
-####Student Management System  
+####Student Management System 
+
+
 **Author:** Amanda Sullivan
 
 **Date:** 2023-03-28
@@ -6,6 +8,8 @@
 **Description:** The Student Management System is a software package designed to manage and organize student information for a given course. It provides functionality to enroll students, record their grades, and calculate their average. Additionally, it provides features to print student information, determine the top student, and identify passing students.
 
 **Installation:**  
+
+
 To install the Student Management System, follow these steps: 
 1. Clone the repository to your local machine using Git or download the zip file.
 2. Extract the contents of the zip file to your desired location.
