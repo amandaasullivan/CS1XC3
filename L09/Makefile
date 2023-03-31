@@ -25,7 +25,7 @@ course : $(SRC_DIR)/course.c $(SRC_DIR)/course.h
 doxyfile :
 	doxygen -g
 
-docs : doxyfile
+docs : Doxyfile
 	doxygen Doxyfile
 
 clean :
