@@ -16,3 +16,6 @@
 [submodule "L09/CS1XC3_L09_Part4"]
 	path = L09/CS1XC3_L09_Part4
 	url = git@github.com:amandaasullivan/CS1XC3_L09_Part4.git
+[submodule "CS1XC3_L09"]
+	path = CS1XC3_L09
+	url = git@github.com:amandaasullivan/CS1XC3_L09.git
