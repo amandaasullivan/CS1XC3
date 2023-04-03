@@ -19,3 +19,6 @@
 [submodule "CS1XC3_L09"]
 	path = CS1XC3_L09
 	url = git@github.com:amandaasullivan/CS1XC3_L09.git
+[submodule "CS1XC3_L10"]
+	path = CS1XC3_L10
+	url = git@github.com:amandaasullivan/CS1XC3_L10.git
